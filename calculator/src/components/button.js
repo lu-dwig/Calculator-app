@@ -2,6 +2,7 @@ import "../App.css";
  
 const Button = ({ text, setDisplay, display, equation, setEquation }) => {
    const handleClick = () => {
+    
      
   }
  
